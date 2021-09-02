@@ -1,0 +1,6 @@
+Simply build the C++ file in the compiler of your choice.
+Run the executable
+Input the grep command in standard input.
+Output is standard output.
+The search file has to be in the same directory.
+I tested this on VS Code on Mac and g++ on windows.
